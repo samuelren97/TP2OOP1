@@ -8,5 +8,6 @@ namespace TP2_SamuelAlexandre
 {
     public class GestionJeu
     {
+        private Personnage joueur;
     }
 }
