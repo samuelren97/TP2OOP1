@@ -8,5 +8,6 @@ namespace TP2_SamuelAlexandre
 {
     public enum Arme
     {
+        gun
     }
 }
