@@ -8,5 +8,6 @@ namespace TP2_SamuelAlexandre
 {
     public class Personnage
     {
+        private string test;
     }
 }
