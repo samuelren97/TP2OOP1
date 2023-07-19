@@ -8,6 +8,14 @@ namespace TP2_SamuelAlexandre
 {
     public enum Arme
     {
-        gun
+        Archer,
+        Mage,
+        Guerrier,
+        Assassin,
+        Moine,
+        Troll,
+        Goblin,
+        Squelette,
+        Faermoore
     }
 }
